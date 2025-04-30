@@ -2,7 +2,8 @@
   
 <h2>📊 Data Analysis/Visualization Projects:</h2>
 
-- [US House Of Reps Project](https://github.com/nurgo24/USHouseOfRepsData)
+- [US House Of Reps Disbursement Project](https://github.com/nurgo24/USHouseOfRepsData)
+- [Chicago Affordable Housing and School Districts]()
 
 <h2>📑 Certifications:</h2>
 
