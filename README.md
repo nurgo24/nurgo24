@@ -11,3 +11,4 @@
 <h2>📞 Connect With Me:</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/nolan-urgo/)
+- [Instagram](https://www.instagram.com/nurgo24/)
