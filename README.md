@@ -5,7 +5,7 @@
 <h3>Python:</h3>
 
 - [US House Of Reps Disbursement Data Project](https://github.com/nurgo24/USHouseOfRepsData)
-- [Chicago Affordable Housing and School Districts](https://github.com/nurgo24/ChicagoDataPortalProject)
+- [Chicago Affordable Housing and School Districts Project](https://github.com/nurgo24/ChicagoDataPortalProject)
 
 <h2>📑 Certifications:</h2>
 
