@@ -9,7 +9,7 @@
 
 <h3>SQL:</h3>
 
-- [Mock Consulting Firm Project (postgreSQL)](https://github.com/nurgo24/SQLLogDataProject)
+- [Mock Consulting Firm Project (PostgreSQL)](https://github.com/nurgo24/SQLLogDataProject)
 
 <h2>📑 Certifications:</h2>
 
