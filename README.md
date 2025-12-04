@@ -5,6 +5,7 @@
 <h3>Python:</h3>
 
 <h4>Data Analysis</h4>
+
 - [Chicago Affordable Housing and School Districts Data](https://github.com/nurgo24/ChicagoDataPortalProject)
 - [US House Of Reps Disbursement Data Project](https://github.com/nurgo24/USHouseOfRepsData)
 
